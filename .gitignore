@@ -1,3 +1,4 @@
 /__pycache__
 /individual_mirror_plots
-.xlsx
+*.xlsx
+*.png
